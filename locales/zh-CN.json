@@ -12,15 +12,11 @@
       ],
       "key": "!html",
       "selector": "a[aria-label='Pull requests you created']",
-      "replacement": "拉取请求",
-       "key": "!html",
-      "selector": "f5",
-      "replacement": "Hello"
+      "replacement": "拉取请求"
     }
   ],
 
   "dict": {
-    " top repositories": "你好",
     "__comments-1": "date",
     "jan": "1月",
     "january": "1月",
